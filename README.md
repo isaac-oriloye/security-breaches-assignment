@@ -7,4 +7,4 @@ This repository contains my assignment on significant security breaches that hav
 
 ---
 
-Thank you for reviewing my work — Ziko
+Thank you for reviewing my work — Oriloye Isaac
